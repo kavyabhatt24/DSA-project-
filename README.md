@@ -78,4 +78,6 @@ int main() {
     }
     return 0;
 }
+![Screenshot (1)](https://github.com/user-attachments/assets/ea59a2da-a53f-4f37-9029-929e951af701)
+
 
